@@ -1,8 +1,7 @@
-package com.union.java8.lambda.lession02;
+package com.union.java8.lambda.lesson02;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 /**

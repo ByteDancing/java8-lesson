@@ -1,4 +1,4 @@
-package com.union.java8.lambda.lession02;
+package com.union.java8.lambda.lesson02;
 
 import java.util.Arrays;
 import java.util.List;

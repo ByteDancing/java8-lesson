@@ -1,4 +1,4 @@
-package com.union.java8.lambda.lession01;
+package com.union.java8.lambda.lesson01;
 
 import lombok.Builder;
 import lombok.Data;
